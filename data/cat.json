@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Detective",
+            "books": [1, 2, 5]
+        },
+        {
+            "id": "2",
+            "name": "Sci-Fi",
+            "books": [3, 4, 5]
+        },
+        {
+            "id": "3",
+            "name": "Fantasy",
+            "books": [3, 4, 6]
+        },
+        {
+            "id": "4",
+            "name": "LGBT",
+            "books": [6, 7, 8]
+        }
+    ]
+}
